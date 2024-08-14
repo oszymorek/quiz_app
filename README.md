@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">QUZI_APP</h1>
+    <h1 align="center">Quzi Application</h1>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/oszymorek/quzi_app.git?style=flat&color=0080ff" alt="license">
@@ -39,6 +39,7 @@ A simple App to quiz you on your React knowledge.
 
 https://project07-oszymorek.netlify.app/
 
+## Repository Structure
 ```sh
 └── quzi_app/
     ├── README.md
