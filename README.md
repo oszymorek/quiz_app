@@ -34,7 +34,7 @@ A simple App to quiz you on your React knowledge.
 <strong>Data:</strong> Data is passed in via props(props drilling).</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
 <strong>Hooks:</strong> Used the `useReducer` | `useEffect` hooks.</br>
-<strong>Functions:</strong> `Data fetch` | `Correctly answer` | `Next question` | `Finish quiz` | `Reset quiz` | `Time` |  `Counter` |</br>
+<strong>Functions:</strong> `Data fetch` | `Correctly answer` | `Next question` | `Finish quiz` | `Reset quiz` | `Time` |  `Counter` </br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
 https://project07-oszymorek.netlify.app/
